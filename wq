@@ -1,0 +1,68 @@
+[33mcommit 5f01a3ecc58678c045822186dc1a55c573aaa09d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Ubuntu <ubuntu@ip-172-31-1-83.ap-south-1.compute.internal>
+Date:   Mon Apr 25 16:10:46 2022 +0000
+
+    merging is done
+
+[33mcommit 41a06cee9174531ea59e8cf260d7391eb8f81bdd[m
+Author: Ubuntu <ubuntu@ip-172-31-1-83.ap-south-1.compute.internal>
+Date:   Mon Apr 25 16:02:06 2022 +0000
+
+    m5
+
+[33mcommit b0e859223c6b6c736be36e72a96b17b197a40655[m
+Author: Ubuntu <ubuntu@ip-172-31-1-83.ap-south-1.compute.internal>
+Date:   Mon Apr 25 16:00:02 2022 +0000
+
+    m4
+
+[33mcommit 984b9dd5bbfb290a6f0a4bf6d6f1d5d081186cb8[m
+Merge: 169f038 d80c6e7
+Author: Ubuntu <ubuntu@ip-172-31-1-83.ap-south-1.compute.internal>
+Date:   Mon Apr 25 14:58:20 2022 +0000
+
+    Merge branch 'master' of github.com:uppari001/third
+
+[33mcommit 169f038318a01d8634f89fd802eefe8c04c0747e[m
+Merge: c7c4091 70b609f
+Author: Ubuntu <ubuntu@ip-172-31-1-83.ap-south-1.compute.internal>
+Date:   Mon Apr 25 14:54:32 2022 +0000
+
+    m3
+
+[33mcommit d80c6e752e7298fd71f516fd971565f35fbac606[m[33m ([m[1;31morigin/master[m[33m)[m
+Merge: c7c4091 70b609f
+Author: Ubuntu <ubuntu@ip-172-31-1-83.ap-south-1.compute.internal>
+Date:   Mon Apr 25 14:54:32 2022 +0000
+
+    Merge branch 'master' of github.com:uppari001/third
+
+[33mcommit c7c40917df0b4cc1af70a47de20b7b367eaed0d5[m
+Author: Ubuntu <ubuntu@ip-172-31-1-83.ap-south-1.compute.internal>
+Date:   Mon Apr 25 14:42:03 2022 +0000
+
+    m2
+
+[33mcommit 70b609f381a992282bd16892139b0321b000e56e[m[33m ([m[1;32mmain[m[33m)[m
+Author: Ubuntu <ubuntu@ip-172-31-1-83.ap-south-1.compute.internal>
+Date:   Mon Apr 25 14:42:03 2022 +0000
+
+    adding mesaage
+
+[33mcommit fe74501628a06b0ace0feafbbde118e0e45bd5c4[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: uppari001 <104200537+uppari001@users.noreply.github.com>
+Date:   Mon Apr 25 19:59:56 2022 +0530
+
+    Update README.md
+
+[33mcommit 9472841a95b7b876d63479e9156497e138b246e4[m
+Author: uppari001 <104200537+uppari001@users.noreply.github.com>
+Date:   Mon Apr 25 19:58:56 2022 +0530
+
+    m1
+
+[33mcommit 6fa0af13706df497f757aaf7de2be77857751827[m
+Author: uppari001 <104200537+uppari001@users.noreply.github.com>
+Date:   Mon Apr 25 19:58:02 2022 +0530
+
+    Initial commit
